@@ -97,3 +97,12 @@
   border:1px solid #FFFFFF;
   font-size: 20px;
 }
+.images-logo{
+  display: flex;
+  margin-left: 321px;
+  justify-content: space-between;
+  margin-right:321px;
+  margin-top: 80px;
+}
+
+
